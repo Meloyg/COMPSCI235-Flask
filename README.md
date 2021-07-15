@@ -10,8 +10,17 @@
 
 A step by step series of examples that tell you how to get a development env running
 
+1.
+```
+pip3 install virtualenv
+```
 
+2.
+```
+virtualenv env
+```
 
+3.
 ```
 source env/bin/activate
 ```
